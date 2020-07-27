@@ -12,6 +12,6 @@ Checklist:
 
 1. Change the file assets/img/me.jpg with your image to view under About page.
 2. Change the file assets/img/bg.jpg with your image or any image you need to view as background.
-  Note : You could change the file name of bg.jpg in assets/css/style.css 
+   Note : You could change the file name of bg.jpg in assets/css/style.css 
 
 Thank you!
